@@ -7,6 +7,12 @@ public class Demo
 	{
 		System.out.println("Hello tushar This m1");
 	}
+	
+	public void m2()
+	{
+		System.out.println("Hello tushar This m2");
+	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("GIT Demo...");

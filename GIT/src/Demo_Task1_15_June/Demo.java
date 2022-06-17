@@ -10,7 +10,7 @@ public class Demo
 	
 	public void m2()
 	{
-		System.out.println("Hello tushar This m2");
+		System.out.println("Hello Tushar This m2");
 	}
 	
 	public static void main(String[] args) 
